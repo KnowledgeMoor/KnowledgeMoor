@@ -12,7 +12,7 @@
 🎓 Estou no último semestre do curso de **Tecnologia em Sistemas para Internet**.<br>
 💻 Tenho experiência com **desenvolvimento full stack**, tanto em **front-end** quanto em **back-end**.<br>
 🌐 Atualmente, estou buscando oportunidades para aplicar meus conhecimentos em projetos desafiadores.<br>
-🗣️ Idiomas: Português (nativo), Inglês (avançado) e Francês (intermediário).<br>
+🗣️ Idiomas: Português (nativo), Inglês (avançado) e Francês (avançado).<br>
 
 ---
 
