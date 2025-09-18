@@ -41,8 +41,6 @@
   <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnowledgeMoor&layout=compact&theme=tokyonight"/>
-
 ### 📬 Contato
 
 <p align="left">
