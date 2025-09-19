@@ -16,6 +16,24 @@
 
 ---
 
+### 💻 Projetos
+
+#### 📱 [Aplicativo Móvel de Monitoramento de Colmeias](https://github.com/KnowledgeMoor/BeeHiveMonitorApp)
+- Desenvolvi um backend em **Java e Spring** para receber e processar dados de colmeias de abelhas.  
+- Integrei a comunicação de dados via protocolo **MQTT**, conectando o backend a um aplicativo mobile em **React Native**.  
+- Armazenei e gerenciei os dados no aplicativo usando **SQLite**, permitindo visualização de gráficos e análises históricas.  
+
+#### 🌐 [Landing Page para site de vendas de dosadores de precisão | “Precision”](https://github.com/KnowledgeMoor/PrecisionV1)
+- Colaborei em um projeto acadêmico para criar uma **landing page responsiva em React**, definindo escopo e funcionalidades em equipe.  
+- Concebi e integrei um **fluxo de contato direto**, incluindo botão flutuante de **WhatsApp** e formulário de contato, para facilitar interações e potenciais vendas.  
+
+#### 🎮 [Jogo Web Interativo | “Par ou Ímpar?”](https://github.com/KnowledgeMoor/Eh_Par)
+- Desenvolvi um jogo interativo usando **HTML, CSS e JavaScript**, aprimorando minhas habilidades de desenvolvimento front-end.  
+- Projetei uma **interface responsiva e dinâmica**, garantindo jogabilidade em dispositivos móveis e desktops.  
+- Implementei **sistema de cadastro/login** com persistência de dados via **LocalStorage**, três níveis de dificuldade, cronômetro regressivo e feedback visual ao jogador.  
+
+---
+
 ### 🛠️ Tecnologias & Ferramentas
 
 #### 📌 Linguagens & Frameworks
